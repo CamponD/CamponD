@@ -12,5 +12,4 @@ Soy un desarrollador full-stack en constante aprendizaje. Me gusta crear solucio
 🔹 **Buscando oportunidades en:** Desarrollo web y software  
 
 📫 **Conéctate conmigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](TU_LINKEDIN)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-black?logo=github)](TU_GITHUB) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)]([TU_LINKEDIN](https://www.linkedin.com/in/danielcampon/))  
