@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel Campón Perdigones  
 
-<!--
-**CamponD/CamponD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador Full-Stack | Apasionado por la tecnología y el aprendizaje  
 
-Here are some ideas to get you started:
+Soy un desarrollador full-stack en constante aprendizaje. Me gusta crear soluciones web eficientes y bien estructuradas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Tecnologías principales:** JavaScript | Python | Flask | React | SQLAlchemy  
+🔹 **Herramientas:** Git | GitHub | VS Code  
+🔹 **Bases de datos:** PostgreSQL | SQLite  
+🔹 **Metodologías:** SCRUM | Kanban  
+🔹 **Actualmente trabajando en:** Mejorar mis habilidades en React y desarrollo backend mientras optimizo mis proyectos en GitHub con buenas prácticas y gestión de tareas.  
+🔹 **Buscando oportunidades en:** Desarrollo web y software  
+
+📫 **Conéctate conmigo:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](TU_LINKEDIN)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portafolio-black?logo=github)](TU_GITHUB) 
